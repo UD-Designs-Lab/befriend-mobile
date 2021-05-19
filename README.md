@@ -4,4 +4,4 @@ Let's connect.
 
 ## Getting Started
 
-This is befirend's mobile app repository.
+This is befriend's mobile app repository.
